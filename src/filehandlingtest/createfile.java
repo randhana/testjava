@@ -9,7 +9,7 @@ import java.io.IOException;
 public class createfile {
     public static void main(String[] args) throws IOException 
     { 
-        // Accept a string  
+        // Accept a string  jk
         String str = "File Handling in Java using "+ 
                 " FileWriter and FileReader"; 
   
