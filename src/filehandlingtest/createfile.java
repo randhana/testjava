@@ -23,7 +23,7 @@ public class createfile {
                 fw.write(str.charAt(i));
             System.out.println("Writing successful\nDone!");
             //close the file
-        } 
+        } //Address
   
     
      int ch; 
